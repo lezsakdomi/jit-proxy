@@ -1,0 +1,8 @@
+{
+  "name": "jit-proxy",
+  "version": "0.0.1",
+  "description": "A proxy which allocates resources on-the-fly",
+  "main": "index.js",
+  "repository": "https://github.com/lezsakdomi/jit-proxy",
+  "author": "Domonkos Lezsák <lezsakdomi1@gmail.com>"
+}

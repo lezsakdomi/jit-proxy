@@ -1,0 +1,36 @@
+Arguments: 
+  /home/led/Downloads/emsdk/node/12.9.1_64bit/bin/node /home/led/.yarn/bin/yarn.js init
+
+PATH: 
+  /home/led/Downloads/emsdk:/home/led/Downloads/emsdk/fastcomp/emscripten:/home/led/Downloads/emsdk/node/12.9.1_64bit/bin:/home/led/Downloads/google-cloud-sdk/bin:/home/led/.gem/ruby/2.3.0/bin:/home/led/.yarn/bin:/home/led/.config/yarn/global/node_modules/.bin:/home/led/apache-maven-3.5.0/bin:node_modules/.bin:/home/led/.local/bin:/home/led/bin:/home/led/Downloads/bin:/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin:/usr/local/sbin:/usr/x86_64-pc-linux-gnu/aarch64-unknown-linux-gnu/gcc-bin/6.4.0:/usr/x86_64-pc-linux-gnu/arm-linux-gnueabi/gcc-bin/6.4.0:/usr/lib/llvm/8/bin:/opt/bin:/home/led/Downloads/codacy-analysis-cli/bin:/home/led/Downloads/factorio_0.16.6/bin:/home/led/Downloads/factorio/bin:/home/led/Downloads/Factorio.v0.16.36/bin:/home/led/Downloads/ftp-srv/bin:/home/led/Downloads/jamplus/bin:/home/led/Downloads/kronologia-backend/bin:/home/led/Downloads/magyarispell/bin:/home/led/Downloads/NodeOS/bin:/home/led/Downloads/panel/bin:/home/led/Downloads/probot-backend/bin:/home/led/.cargo/bin
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  12.9.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/led/.yarn/lib/cli.js:131036:13)
+      at Interface.emit (events.js:209:13)
+      at Interface._ttyWrite (readline.js:887:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:209:13)
+      at emitKeys (internal/readline/utils.js:414:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1153:36)
+      at ReadStream.emit (events.js:209:13)
+      at addChunk (_stream_readable.js:305:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
